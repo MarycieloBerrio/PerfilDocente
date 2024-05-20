@@ -27,24 +27,22 @@ Asegúrate de tener instalados los siguientes requisitos antes de ejecutar el pr
 
 Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
-1. **Clona este repositorio**:
+1. Clona este repositorio:
     ```bash
     git clone https://github.com/MarycieloBerrio/PerfilDocente.git
     ```
 
-2. **Navega al directorio del proyecto**:
+2. Navega al directorio del proyecto:
     ```bash
     cd PerfilDocente
     ```
 
-3. **Instala las dependencias**:
-    Si usas npm:
+3. Instala las dependencias:
     ```bash
     npm install
     ```
 
-4. **Inicia la aplicación**:
-    Si usas npm:
+4. Inicia la aplicación:
     ```bash
     npm run dev
     ```
