@@ -1,0 +1,28 @@
+.navbar {
+    width: 100%;
+    display: flex;
+
+    .items {
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+        list-style: none;
+        background-color: #666;
+        padding-top: 3px;
+
+        li {
+            color: #ECECEC;
+            height: 100%;
+            padding: 0.2rem 1rem;
+            cursor: pointer;
+        }
+
+        .active {
+            background-color: #474748;
+            border-top-left-radius: 7px;
+            border-top-right-radius: 7px;
+        }
+    }
+
+
+}
